@@ -23,9 +23,9 @@ ext {
 }
 
 dependencies {
-    implementation 'org.springframework.boot:spring-boot-starter-actuator'
-    implementation 'org.springframework.cloud:spring-cloud-starter-netflix-eureka-server'
-    compileOnly 'org.projectlombok:lombok'
+    implementation 'org.springframework.boot:spring-boot-starter-actuator' // Actuator 사용
+    implementation 'org.springframework.cloud:spring-cloud-starter-netflix-eureka-server' // Eureka Server 사용
+    compileOnly 'org.projectlombok:lombok' // Lombok 사용
     annotationProcessor 'org.projectlombok:lombok'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
