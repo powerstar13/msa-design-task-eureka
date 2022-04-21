@@ -2,6 +2,8 @@
 spring:
   application:
     name: Eureka Server
+
+server:
   port: 8080
 
 eureka:
