@@ -15,3 +15,18 @@
 ## Domain Model
 
 ![DomainModel.png](DomainModel.png)
+
+## Process
+
+![Process](Process.png)
+
+## 도메인 설계
+
+![](DDD_model.png)
+
+## MSA 설계
+![](MSA_설계.png)
+
+## Entity
+
+![](DDD_Entity.png)
